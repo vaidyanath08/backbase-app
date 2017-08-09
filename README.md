@@ -82,7 +82,7 @@ Import backbase-app as a Maven Project
 
 Access the deployed web application at: http://localhost:8080/backbase-app/login
 
-Note:
+Note: 
 
 For testing the endpoints via POSTMAN by giving AUTH credentials (username  :admin , password : admin)
 1.Trasactionlist  : http://localhost:8080/backbase-app/transactions/transactionlist
